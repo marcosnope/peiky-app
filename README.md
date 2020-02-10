@@ -24,3 +24,12 @@ Connected component responsible for showing the detail of each movie and being a
 
 `VideoPlayer`
 Component that by means of react-youtube allows to load the trailer of each selected movie
+
+## Preguntas
+
+1. ¿ En qué consiste el principio de responsabilidad única? ¿Cuál es su propósito? 
+R: La responsabilidad unica consiste en que cada unidad de código debe realizar una única cosa, por ejemplo si una
+función en su declaracion es lo mas descriptiva posible y realiza una accion especifica (Ejemplo: Crear usuario) su contenido debe estar enfoncado especificamente en ello. El codigo básicamente debería ser creado como una receta de cocina.
+
+2. ¿Qué características tiene, según su opinión, un “buen” código o código limpio?
+R: En mi opinion un codigo limpio es basicamente que respete el principio SOLID.
